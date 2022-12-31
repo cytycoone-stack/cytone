@@ -29,7 +29,7 @@
     "react-places-autocomplete": "^7.2.0",
     "react-responsive-carousel": "^3.1.41",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "react-swipeable-views": "^0.12.15",
     "react-swipeable-views-utils": "^0.12.14",
     "styled-components": "^3.3.3",
